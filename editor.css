@@ -1,0 +1,42 @@
+
+body{
+    background-image: url('https://wallpapercave.com/wp/wp3165125.jpg');
+}
+
+.header{
+    text-align: center;
+    font-style: oblique;
+    font-size: 30px;
+    padding: 10px;
+}
+
+p{
+    font-size: 20px;
+}
+
+textarea{
+    border-radius: 10px;
+    font-size: 15px;
+    
+}
+
+button{
+    transform: translateX(10%);
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgba(27, 27, 27, 0.774);
+    color: aliceblue;
+}
+
+.fa-color{
+    color: black;
+}
+
+.icons{
+    margin:10px;
+}
+
+a{
+    padding-left: 3em;
+}
